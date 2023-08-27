@@ -6,19 +6,19 @@
 <br/>
 <h3 >Home Page</h3>
 <div align="center">
-    <img src="FrontPage.jpeg", width="100%">
+    <img src="./my-little-lemon/FrontPage.jpeg", width="100%">
 </div>
 
 ## Screenshots
 
 <h3>Form Page</h3>
 <div align="center">
-    <img src="FormPage.jpeg", width="100%">
+    <img src="./my-little-lemon/FormPage.jpeg", width="100%">
 </div>
 
 ## Screenshots
 
 <h3>Confirmation Page</h3>
 <div align="center">
-    <img src="ConfirmedPage.jpg", width="100%">
+    <img src="./my-little-lemon/ConfirmedPage.jpg", width="100%">
 </div>
