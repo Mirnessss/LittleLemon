@@ -29,7 +29,7 @@ export default function Footer() {
               <Link to="/little-lemon-capstone/order-online">Order Online</Link>
             </li>
             <li>
-              <Link to="/little-lemon-capstone/login">Login</Link>
+              <Link to="/little-lemon-capstone/login">Sign in</Link>
             </li>
           </ul>
         </div>
